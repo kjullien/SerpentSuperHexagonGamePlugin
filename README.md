@@ -3,7 +3,7 @@
 Any suggestion / help you can provide to this project is appreciated.
 
 ## 🎉 Introduction
-This project contains both the **Game Plugin** and the **Game Agent Plugin** needed for the **SerpentAI** library to function.
+This project contains the **Game Plugin** the **SerpentAI** library to function.
 
 ## ❓ Why
 I got me a MPB for work, so no fancy TensorFlow GPU acceleration for me 😢.
@@ -22,7 +22,6 @@ Also I like to use [emojis](https://gitmoji.carloscuesta.me/) because why not it
 
 ## ✨ Features
 I have already created feature branches for the following :
-- ❎ agent-models
 - ❎ captures-frame-regions
 - ✅ captures-full-game-context (partial)
 - ✅ captures-full-game
@@ -30,5 +29,3 @@ I have already created feature branches for the following :
 - ❎ game-sprites
 
 **game**: Game Plugin
-
-**agent**: Game Agent Plugin
